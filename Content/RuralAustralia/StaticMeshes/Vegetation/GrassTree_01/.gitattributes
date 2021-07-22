@@ -1,0 +1,2 @@
+*.USASSET filter=lfs diff=lfs merge=lfs -text
+*.UASSET filter=lfs diff=lfs merge=lfs -text
